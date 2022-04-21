@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162351798294",
+    "firebase_url": "https://minuevatienda-cc4ab-default-rtdb.firebaseio.com",
+    "project_id": "minuevatienda-cc4ab",
+    "storage_bucket": "minuevatienda-cc4ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162351798294:android:0196fb420110917be17d37",
+        "android_client_info": {
+          "package_name": "com.example.programacionparcialiigabriel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162351798294-31vev07i63n35n2475agmpl3bg3e5s7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8bl48JqRnBCQafHRfzgr5HRfIvsQuxPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162351798294-31vev07i63n35n2475agmpl3bg3e5s7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
